@@ -18,7 +18,7 @@
             function preguntarAntesDeSalir()
             {
                 if (bPreguntar)
-                    return "¿Seguro que quieres salir?";
+                    return "Si sales no se guardaran las modificaciones.";
             }
         </script>
     </head>
